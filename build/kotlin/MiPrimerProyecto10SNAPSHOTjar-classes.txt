@@ -1,0 +1,1 @@
+/home/alberto/IdeaProjects/MiPrimerProyecto/build/classes/kotlin/main/BuclesKt.class:/home/alberto/IdeaProjects/MiPrimerProyecto/build/classes/kotlin/main/EstructurasControlKt.class:/home/alberto/IdeaProjects/MiPrimerProyecto/build/classes/kotlin/main/VariablesKt.class
